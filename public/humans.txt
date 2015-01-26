@@ -6,9 +6,13 @@
 /* THANKS*/
 	Slim Framework:
 		Author: Josh Lockhart
-		Site: https://www.joshlockhart.com
-		GitHub: https://www.github.com/codeguy
+		Site: https://joshlockhart.com
+		GitHub: https://github.com/codeguy
 
+	CSS Reset:
+		Author: Eric Mayer
+		Site: http://meyerweb.com/
+		GitHub: https://github.com/meyerweb
 
 
 /* SITE */
