@@ -1,0 +1,18 @@
+/* TEAM */
+	Developer: Steve King
+	Twitter: @JustSteveKing
+	From: Shropshire, UK
+
+/* THANKS*/
+	Slim Framework:
+		Author: Josh Lockhart
+		Site: https://www.joshlockhart.com
+		GitHub: https://www.github.com/codeguy
+
+
+
+/* SITE */
+	Last Updated: 26th January 2015
+	Language: English
+	Doctype: HTML5
+	IDE: Sublime Text
