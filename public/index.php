@@ -7,7 +7,7 @@
   $app->util = new \Core\Util();
 
   $app->view = new \Slim\Views\Twig();
-  $app->view->setTemplatesDirectory("src/views/");
+  $app->view->setTemplatesDirectory("../src/views/");
   
   $app->configureMode('development', function () use ($app) {
     $app->hook('slim.before', function () use ($app) {
@@ -35,7 +35,9 @@
     $app->render('index.twig', array(
     	'page' => 'Home'
     ));
-    $app->render('footer.twig');
+    $app->render('footer.twig', array(
+      'page' => 'home'  
+    ));
   });
 
   $app->run();
