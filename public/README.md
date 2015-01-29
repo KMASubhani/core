@@ -1,4 +1,4 @@
-# core - public
+# core :: public
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 
 This is the public directory - or in lamens terms where the magic happens.
